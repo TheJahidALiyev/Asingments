@@ -28,3 +28,4 @@ void print2DArr(int *arr2D[], int rows, int columns){
                         printf("%d ",arr2D[i][j]);
                 printf("\n");
 }
+
