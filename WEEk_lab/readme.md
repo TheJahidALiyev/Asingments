@@ -1,0 +1,1 @@
+Here, the programs takes all members of "source" array and checks whether they are integers or not, after determining it, it add an integer to "integer" array and the other nonintegers to "noninteger" array. and prints them.
